@@ -1,7 +1,7 @@
 # Algorithms - MST (Kruskal+union-find), StableMarriage, Coin Change
  Implement the Algorithms MST (Kruskal+union-find), StableMarriage, Coin Change.
  
- Univeristy Project.
+ University Project.
  
 There are two kinds of ants in the nest, red and black.
 1. The place where each ant is is determined by (x,y) coordinates.
